@@ -1,0 +1,6 @@
+15/06/2018 14:35:04: java.io.FileNotFoundException: LastLibraryUsed.txt (O sistema não pode encontrar o arquivo especificado)
+15/06/2018 14:35:06: java.io.FileNotFoundException: LibrarySave.save (O sistema não pode encontrar o arquivo especificado)
+15/06/2018 14:35:06: java.io.FileNotFoundException: empty (O sistema não pode encontrar o arquivo especificado)
+01/10/2018 21:40:41: java.io.FileNotFoundException: LastLibraryUsed.txt (O sistema não pode encontrar o arquivo especificado)
+01/10/2018 21:40:55: java.io.FileNotFoundException: LibrarySave.save (O sistema não pode encontrar o arquivo especificado)
+01/10/2018 21:40:55: java.io.FileNotFoundException: empty (O sistema não pode encontrar o arquivo especificado)
